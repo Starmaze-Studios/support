@@ -52,6 +52,8 @@ Quit the Stream Deck app fully and open it again. Closing the window isn't enoug
 
 Send us an Email: starmazestudios@gmail.com
 
+Found a bug or have an idea? [Open an issue on GitHub](https://github.com/Starmaze-Studios/crystal-frosted-glass/issues/new/choose).
+
 Please include your system, your Stream Deck model, what you pressed and what happened. The plugin's log file helps too. It holds error messages and may include playlist names:
 
 - Windows: `%APPDATA%\Elgato\StreamDeck\Plugins\com.frostdeck.music.sdPlugin\logs`
